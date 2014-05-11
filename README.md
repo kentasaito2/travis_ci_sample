@@ -20,5 +20,4 @@ composerで入れたphpunitとかtestrunnerとか。
 
 ----
 ## それをtestrunnerでテストするには
-
 `./vendor/bin/testrunner phpunit -p vendor/autoload.php -a tests`
